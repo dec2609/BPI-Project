@@ -1,4 +1,4 @@
-﻿# Danh mục & Tài liệu Hướng dẫn Dữ liệu (Data Documentation)
+# Danh mục & Tài liệu Hướng dẫn Dữ liệu (Data Documentation)
 
 Thư mục này chứa toàn bộ các tập dữ liệu phục vụ nghiên cứu **Chỉ số Hiệu quả Kinh tế tư nhân (BPI)** và **Câu hỏi nghiên cứu 3 (RQ3 - PCI, FDI & Phát triển Doanh nghiệp Tư nhân)**.
 

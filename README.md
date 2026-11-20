@@ -1,4 +1,4 @@
-﻿# BPI Project: Business Performance Index & Provincial Economic Analytics
+# BPI Project: Business Performance Index & Provincial Economic Analytics
 
 Nghiên cứu định lượng về **Chỉ số Hiệu quả Kinh tế tư nhân (BPI)** và mối liên hệ giữa cải thiện các chỉ số thành phần năng lực cạnh tranh (**PCI / PCI 2.0**) với kết quả kinh tế khu vực tư nhân tại Việt Nam (giai đoạn 2021–2025).
 
